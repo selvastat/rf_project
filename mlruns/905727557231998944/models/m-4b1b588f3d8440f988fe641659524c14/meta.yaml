@@ -1,0 +1,11 @@
+artifact_location: file:///C:/Users/selva/OneDrive/Desktop/rf_project/mlruns/905727557231998944/models/m-4b1b588f3d8440f988fe641659524c14/artifacts
+creation_timestamp: 1752489703614
+experiment_id: '905727557231998944'
+last_updated_timestamp: 1752489716375
+lifecycle_stage: deleted
+model_id: m-4b1b588f3d8440f988fe641659524c14
+model_type: null
+name: rf_model
+source_run_id: a3a72ac9839a4c7bb37d5066b6c1bae0
+status: 2
+status_message: null

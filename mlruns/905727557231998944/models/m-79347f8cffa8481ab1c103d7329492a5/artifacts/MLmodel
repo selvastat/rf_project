@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/selva/OneDrive/Desktop/rf_project/mlruns/905727557231998944/models/m-79347f8cffa8481ab1c103d7329492a5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 3.1.1
+model_id: m-79347f8cffa8481ab1c103d7329492a5
+model_size_bytes: 174734
+model_uuid: m-79347f8cffa8481ab1c103d7329492a5
+prompts: null
+run_id: bfe02f45fef44f1daaf5b7721ca498c7
+utc_time_created: '2025-07-14 08:06:19.554296'

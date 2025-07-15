@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/selva/OneDrive/Desktop/rf_project/mlruns/905727557231998944/models/m-0c0d7398cf9342b6962d1cab1807932c/artifacts
+creation_timestamp: 1752502966581
+experiment_id: '905727557231998944'
+last_updated_timestamp: 1752502980764
+model_id: m-0c0d7398cf9342b6962d1cab1807932c
+model_type: null
+name: clf
+source_run_id: 94cab230e50c465d964a68dbf5d488ad
+status: 2
+status_message: null

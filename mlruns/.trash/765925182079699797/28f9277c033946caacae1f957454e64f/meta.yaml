@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/selva/OneDrive/Desktop/rf_project/mlruns/765925182079699797/28f9277c033946caacae1f957454e64f/artifacts
+deleted_time: 1752480600589
+end_time: 1752479925917
+entry_point_name: ''
+experiment_id: '765925182079699797'
+lifecycle_stage: deleted
+run_id: 28f9277c033946caacae1f957454e64f
+run_name: shivering-wolf-385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752479925240
+status: 3
+tags: []
+user_id: selva

@@ -1,0 +1,16 @@
+Steps for model training, deployment and monitoring
+ 
+open Anaconda prompt
+
+cd C:\Users\selva\OneDrive\Desktop\rf_project
+
+python rf_train.py
+
+mlflow ui
+
+open http://127.0.0.1:5000
+
+uvicorn main:app --reload
+
+open http://127.0.0.1:8000/docs
+

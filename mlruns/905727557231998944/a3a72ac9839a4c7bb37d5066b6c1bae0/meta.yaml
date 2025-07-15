@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/selva/OneDrive/Desktop/rf_project/mlruns/905727557231998944/a3a72ac9839a4c7bb37d5066b6c1bae0/artifacts
+deleted_time: 1752490392047
+end_time: 1752489716582
+entry_point_name: ''
+experiment_id: '905727557231998944'
+lifecycle_stage: deleted
+run_id: a3a72ac9839a4c7bb37d5066b6c1bae0
+run_name: adaptable-stoat-943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752489703190
+status: 3
+tags: []
+user_id: selva

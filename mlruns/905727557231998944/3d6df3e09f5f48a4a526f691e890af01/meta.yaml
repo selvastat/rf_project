@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/selva/OneDrive/Desktop/rf_project/mlruns/905727557231998944/3d6df3e09f5f48a4a526f691e890af01/artifacts
+end_time: 1752495143990
+entry_point_name: ''
+experiment_id: '905727557231998944'
+lifecycle_stage: active
+run_id: 3d6df3e09f5f48a4a526f691e890af01
+run_name: wise-grub-847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752495129662
+status: 3
+tags: []
+user_id: selva

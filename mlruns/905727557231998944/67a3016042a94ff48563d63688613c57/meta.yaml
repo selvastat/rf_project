@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/selva/OneDrive/Desktop/rf_project/mlruns/905727557231998944/67a3016042a94ff48563d63688613c57/artifacts
+deleted_time: 1752489142386
+end_time: 1752486341935
+entry_point_name: ''
+experiment_id: '905727557231998944'
+lifecycle_stage: deleted
+run_id: 67a3016042a94ff48563d63688613c57
+run_name: likeable-colt-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752486324506
+status: 3
+tags: []
+user_id: selva

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/selva/OneDrive/Desktop/rf_project/mlruns/905727557231998944/c2a7da1e89814999a08ac27c73853f0a/artifacts
+deleted_time: 1752489142407
+end_time: 1752480636253
+entry_point_name: ''
+experiment_id: '905727557231998944'
+lifecycle_stage: deleted
+run_id: c2a7da1e89814999a08ac27c73853f0a
+run_name: carefree-carp-674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752480621014
+status: 3
+tags: []
+user_id: selva

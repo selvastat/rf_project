@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/selva/OneDrive/Desktop/rf_project/mlruns/905727557231998944/346d3400e09740fb9cd267c88e002ee5/artifacts
+end_time: 1752502678722
+entry_point_name: ''
+experiment_id: '905727557231998944'
+lifecycle_stage: active
+run_id: 346d3400e09740fb9cd267c88e002ee5
+run_name: melodic-goat-327
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752502664111
+status: 4
+tags: []
+user_id: selva

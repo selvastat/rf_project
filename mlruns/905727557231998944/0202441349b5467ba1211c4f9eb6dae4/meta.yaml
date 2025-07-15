@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/selva/OneDrive/Desktop/rf_project/mlruns/905727557231998944/0202441349b5467ba1211c4f9eb6dae4/artifacts
+end_time: 1752490332605
+entry_point_name: ''
+experiment_id: '905727557231998944'
+lifecycle_stage: active
+run_id: 0202441349b5467ba1211c4f9eb6dae4
+run_name: efficient-bug-171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752490318063
+status: 3
+tags: []
+user_id: selva
