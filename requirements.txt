@@ -4,8 +4,5 @@ fastapi
 uvicorn
 mlflow
 joblib
-<<<<<<< HEAD
 os
-=======
-os
->>>>>>> 6a92c5b (Initial commit)
+
