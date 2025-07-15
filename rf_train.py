@@ -9,7 +9,7 @@ import joblib
 import os
 
 # Load data
-df = pd.read_csv(r"C:\Users\selva\OneDrive\Desktop\rf_project\iris_data.csv")
+df = pd.read_csv("iris_data.csv")
 X = df.drop("species", axis=1)
 y = df["species"]
 
