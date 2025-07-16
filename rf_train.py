@@ -8,7 +8,7 @@ import mlflow
 import joblib
 import os
 
-# Load data
+# Load data iris
 df = pd.read_csv("iris_data.csv")
 X = df.drop("species", axis=1)
 y = df["species"]
